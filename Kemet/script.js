@@ -1,0 +1,1 @@
+file://%20example%20javascript%20functionality%20(optional)document.addeventlistener('domcontentloaded',%20function()%20{%20%20%20%20console.log("website%20is%20ready!");});/
